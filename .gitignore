@@ -1,0 +1,11 @@
+backend/.idea
+backend/go.sum
+backend/.env
+
+frontend/node_modules
+frontend/.env
+frontend/.idea
+frontend/package-lock.json
+
+.idea
+
